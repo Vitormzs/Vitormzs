@@ -20,22 +20,22 @@ Sou um Programador Front-end. Tenho conhecimendo em HTML, CSS e JavaScript. Estu
 
 ## ⚙️ Tecnologias e Linguagens 
 <p>
-  <img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png">  
-  <img height="30" src="https://github.com/github/explore/blob/main/topics/css/css.png">  
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  
+  <code><img height="30" src="https://github.com/github/explore/blob/main/topics/html/html.png"></code>
+  <code><img height="30" src="https://github.com/github/explore/blob/main/topics/css/css.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 </p>
 
 ## ⚙️ Ferramentas  
 <p>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">  
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png">  
-  <img height="30" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png">  
-  <img height="30" src="https://github.com/github/explore/blob/main/topics/git/git.png">  
-  <img height="30" src="https://github.com/github/explore/blob/main/topics/github-desktop/github-desktop.png">  
-  <img height="30" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png">  
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
+  <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png"></code>
+  <code><img height="30" src="https://github.com/github/explore/blob/main/topics/google-cloud/google-cloud.png"></code>
+  <code><img height="30" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
+  <code><img height="30" src="https://github.com/github/explore/blob/main/topics/github-desktop/github-desktop.png"></code>
+  <code><img height="30" src="https://github.com/github/explore/blob/main/topics/visual-studio-code/visual-studio-code.png"></code>
 </p>
 
 ## 📚 Atualmente estudando  
@@ -51,7 +51,7 @@ Sou um Programador Front-end. Tenho conhecimendo em HTML, CSS e JavaScript. Estu
 
 ## 🚀 Quer ver meus projetos?  
 <p>
-📌 Confira meu [portfólio no GitHub](https://github.com/Vitormzs)  
+📌 Confira meu portfólio no <a href="https://github.com/Vitormzs">GitHub
 </p>
 
 ## 🔗 Conecte-se comigo  
